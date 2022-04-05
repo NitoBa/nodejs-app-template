@@ -1,7 +1,7 @@
 {
   "name": "node-app-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "An template for initial NodeJS applications",
   "main": "index.js",
   "scripts": {
     "test": "jest --passWithNoTests",
@@ -12,9 +12,9 @@
     "lint": "eslint --ext .ts, ./src/",
     "lint:fix": "eslint --ext .ts, ./src/ --fix"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["Node.js", "TypeScript", "Template App", "App"],
+  "author": "Bruno Alves",
+  "license": "MIT",
   "devDependencies": {
     "ts-node-dev": "^1.1.8",
     "husky": "^4.3.8",
