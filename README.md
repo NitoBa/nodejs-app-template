@@ -1,4 +1,4 @@
-# An template for NodeJS Applications
+# A template for NodeJS Applications
 
 ## - This template is configured to use:
 
